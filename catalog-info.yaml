@@ -7,5 +7,5 @@ metadata:
     backstage.io/techdocs-ref: dir:.  # Enables TechDocs
 spec:
   type: service                      # required
-  owner: group:guests               # required (can be "group:..." or "user:...")
+  owner: user:default/nikolay.anchev-nedelchev               # required (can be "group:..." or "user:...")
   lifecycle: production              # required (e.g., production | experimental | deprecated)
